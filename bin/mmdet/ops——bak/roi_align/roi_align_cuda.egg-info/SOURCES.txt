@@ -1,0 +1,7 @@
+setup.py
+roi_align_cuda.egg-info/PKG-INFO
+roi_align_cuda.egg-info/SOURCES.txt
+roi_align_cuda.egg-info/dependency_links.txt
+roi_align_cuda.egg-info/top_level.txt
+src/roi_align_cuda.cpp
+src/roi_align_kernel.cu
